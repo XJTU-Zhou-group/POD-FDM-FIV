@@ -6,34 +6,34 @@ The remainder codes as follow:
    
    The full order modeling (FOM) finite differences method (FDM) for loosely supported tube bundle flow-induced vibration (FIV) system with various reduced velocity.
    
-3. U_340.mat
+2. U_340.mat
    
    snapshots of flexible tube transverse deflection from 0 to 250 at U=3.4, the first line is the corresponding time.
    
-5. U_400.mat
+3. U_400.mat
    
    snapshots of flexible tube transverse deflection from 0 to 250 at U=4.0, the first line is the corresponding time.
    
-7. U_480.mat
+4. U_480.mat
    
    snapshots of flexible tube transverse deflection from 0 to 250 at U=4.8, the first line is the corresponding time.
    
-8. beam_vibration_fdm_dde_POD_34.m
+5. beam_vibration_fdm_dde_POD_34.m
    
    The reduced order modeling (ROM) finite differences method (FDM) for loosely supported tube bundle flow-induced vibration (FIV) system at U=3.4.
    
-9. beam_vibration_fdm_dde_POD_40.m
+6. beam_vibration_fdm_dde_POD_40.m
    
    The reduced order modeling (ROM) finite differences method (FDM) for loosely supported tube bundle flow-induced vibration (FIV) system at U=4.0.
    
-10. beam_vibration_fdm_dde_POD_48.m
+7. beam_vibration_fdm_dde_POD_48.m
    
    The reduced order modeling (ROM) finite differences method (FDM) for loosely supported tube bundle flow-induced vibration (FIV) system at U=4.8.
    
-11. fixed_end_mode.m
+8. fixed_end_mode.m
    
    Dominant modes for linear system and fluid induced vibration systems with different reduced velocity.
    
-12. Relative error_POD_mode.m
+9. Relative error_POD_mode.m
    
    Relative error of truncated POD bases.
